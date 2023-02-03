@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on fault anticipation using grid time series data<br>I'm looking to collaborate on NLP innovations<br>I'm seeking fulltime employment from may 2023<br>Ask me about machine learning, MLOps,natural language processing<br>funfact - I love chicken like nobody else!!!
+I'm currently working on fault anticipation using grid time series data<br>As a natural language processing enthusiast looking to collaborate on NLP/U innovations<br>Currently seeking fulltime employment from may 2023<br>Ask me about machine learning, MLOps,natural language processing<br>funfact - I love chicken like nobody else!!!
 
 
 ## 🌐 Socials:
